@@ -1,1 +1,2 @@
-# C35-BolaSicronizada
+# synchronousBallMovement
+Ball moving synchronously
