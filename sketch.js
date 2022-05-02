@@ -29,3 +29,14 @@ function draw(){
   
 }
 
+function lerPosicao(){
+
+}
+
+function atualizarPosicao(){
+
+}
+
+function mostrarErro(){
+    
+}
